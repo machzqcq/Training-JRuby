@@ -12,3 +12,8 @@ Then(/^I expect the title to be "([^"]*)"$/) do |arg|
   expectedTitle = arg
   expect(actualTitle).to eq(expectedTitle)
 end
+
+Then(/^I click view details button for Brook$/) do
+  view_details_buttons = @browser.find_elements(:class => 'rounded_button')
+  view_details_buttons[0].click
+end

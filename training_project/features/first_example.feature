@@ -11,3 +11,8 @@ Feature: This is my first feature learning cucumber
   Scenario: Expect wrong title
     When I open the puppies website
     Then I expect the title to be "Sallies puppies"
+
+  Scenario: Click the first view details button
+    When I open the puppies website
+    Then I click view details button for Brook
+
