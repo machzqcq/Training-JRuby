@@ -4,7 +4,7 @@ require 'selenium-webdriver'
 
 Before do
 
-  @browser = Selenium::WebDriver.for :chrome
+  @browser = Selenium::WebDriver.for :firefox
 
 end
 

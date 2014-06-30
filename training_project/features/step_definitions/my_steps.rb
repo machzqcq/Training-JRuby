@@ -1,6 +1,5 @@
 When(/^I open the puppies website$/) do
   @browser.navigate.to ("http://puppies.herokuapp.com")
-  sleep 10
 end
 
 Then(/^I print the title$/) do
