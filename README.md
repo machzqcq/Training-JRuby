@@ -8,7 +8,7 @@ however if you stumble across the code and want to know more, please email me
 
 Index
 ===============
-first_example
+Selenium first example
 
 ScenarioOutlineExample
 
