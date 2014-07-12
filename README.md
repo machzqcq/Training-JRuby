@@ -22,6 +22,8 @@ Ruby Enumerables
 
 Cucumber Tags
 
+Java Script examples
+
 
 Instructions to use
 =====================
