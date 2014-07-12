@@ -9,3 +9,10 @@ however if you stumble across the code and want to know more, please email me
 Index
 ===============
 first_example:
+
+Instructions to use
+=====================
+
+1) Checkout the project
+2) Run bundle install
+3) Go through .feature files
