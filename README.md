@@ -11,10 +11,15 @@ Index
 first_example
 
 ScenarioOutlineExample
+
 yml examples
+
 json examples
+
 Disablechrome35warning
+
 Ruby Enumerables
+
 
 Instructions to use
 =====================
