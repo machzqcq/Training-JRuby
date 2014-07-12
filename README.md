@@ -24,6 +24,22 @@ Cucumber Tags
 
 Java Script examples
 
+Nokogiri Examples [TODO]
+
+Database connectivity [TODO]
+
+Thick client connectivity[TODO]
+
+Calling REST API [TODO]
+
+Calling SOAP API[TODO]
+
+Mixing Java Code with Ruby code[TODO]
+
+Convert pdf to text [TODO]
+
+Read and write Excel files [TODO]
+
 
 Instructions to use
 =====================
