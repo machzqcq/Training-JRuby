@@ -5,3 +5,8 @@ Feature: Understanding cucumber tags
   @Tag1
   Scenario: Scenario tag example
     When I open the puppies website
+
+  # See hooks.rb file for this below scenario
+  @Tagie
+  Scenario: Launch this tagged scenario with ie
+    When I open the puppies website
