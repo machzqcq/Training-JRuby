@@ -2,7 +2,9 @@ Training
 ========
 
 Training-material
-I am using this project to help the community understand selenium webdriver
+I am using this project to help the community understand selenium webdriver with jruby
+and the whole world of ruby gems. I wil keep adding documentation as much as possible
+however if you stumble across the code and want to know more, please email me
 
 Index
 ===============
