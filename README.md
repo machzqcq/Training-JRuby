@@ -4,7 +4,19 @@ Training
 Training-material
 I am using this project to help the community understand selenium webdriver with jruby
 and the whole world of ruby gems (the same project works with MRI ruby too). I wil keep adding documentation as much as possible
-however if you stumble across the code and want to know more, please email me
+however if you stumble across the code and want to know more, please email me: pradeep@seleniumframework.com
+This project can be used by technical coaches for large and small companies to teach and also have
+implementation code that proves Test Automation should be encouraged as much as possible
+
+
+Capabilities offered
+
+1) BDD/ATDD: Test Automate Everything
+2) Thin client i.e. Browser (chrome, firefox, internet explorer, opera, safari)
+3) XML/YML/HTML/JSON/CSV/EXCEL/CUSTOM FORMATS
+4) Database connectivity
+5) Web Services connectivity
+6) Reduce manual activity as much as possible and let the machines do the redundant work
 
 Index
 ===============
