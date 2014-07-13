@@ -34,7 +34,7 @@ Ruby Enumerables
 
 Cucumber Tags
 
-Java Script examples
+Java Script examples (Ajax handling)
 
 Nokogiri Examples
 
