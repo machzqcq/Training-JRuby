@@ -10,3 +10,7 @@ Feature: Java script examples
   Scenario: Print window title
     When I open the puppies website
     Then I print the window title
+
+  Scenario: Load javascript framework
+    When I load jquery framework
+    Then I execute a jquery function on the website
