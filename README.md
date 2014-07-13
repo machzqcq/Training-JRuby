@@ -24,7 +24,7 @@ Cucumber Tags
 
 Java Script examples
 
-Nokogiri Examples [TODO]
+Nokogiri Examples
 
 Database connectivity [TODO]
 
