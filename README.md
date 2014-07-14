@@ -33,6 +33,8 @@ Ruby Enumerables
 
 Cucumber Tags
 
+Cucumber Transformations
+
 Java Script examples (Ajax handling)
 
 Nokogiri Examples
