@@ -5,4 +5,7 @@ gem 'rspec'
 gem 'selenium-webdriver'
 gem 'rake'
 gem 'nokogiri'
+gem 'activerecord'
+gem 'jdbc-mysql'
+gem 'activerecord-jdbcmysql-adapter'
 
