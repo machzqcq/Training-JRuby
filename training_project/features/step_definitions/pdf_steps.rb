@@ -13,7 +13,7 @@ end
 
 When(/^I open a pdf file using open\-uri$/) do
   # require open-uri in env.rb
-  io     = open('http://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf')
+  io = open('http://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf')
   @pdf_reader = PDF::Reader.new(io)
 end
 
