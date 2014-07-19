@@ -41,6 +41,8 @@ Java Script examples (Ajax handling)
 
 Nokogiri Examples
 
+Run scenarios headless using phantomjs[TODO]
+
 Database connectivity [TODO]
 
 Thick client connectivity[TODO]
