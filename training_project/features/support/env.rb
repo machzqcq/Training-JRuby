@@ -6,6 +6,7 @@ require 'open-uri'
 require 'pdf/reader'
 require_relative 'wrapper'
 require 'rspec/expectations'
+require 'browsermob/proxy'
 
 
 

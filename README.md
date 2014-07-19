@@ -37,6 +37,8 @@ Cucumber Tags
 
 Cucumber Transformations
 
+Page-object design pattern
+
 Java Script examples (Ajax handling)
 
 Nokogiri Examples

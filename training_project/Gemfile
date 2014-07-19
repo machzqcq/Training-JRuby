@@ -9,5 +9,6 @@ gem 'activerecord'
 gem 'jdbc-mysql'
 gem 'activerecord-jdbcmysql-adapter'
 gem 'pdf-reader'
+gem 'browsermob-proxy'
 
 
