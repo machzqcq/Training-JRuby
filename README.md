@@ -21,6 +21,8 @@ Index
 ===============
 Selenium first example
 
+Checkbox and Select box example
+
 ScenarioOutlineExample
 
 yml examples
