@@ -12,6 +12,7 @@ Then(/^I print the window title$/) do
 end
 
 When(/^I load jquery framework$/) do
+  # See seleniumwrapper.feature where there is an easier way to load js libraries ;)
   @browser.navigate.to "http://www.google.com"
   dir_to_jquery = Dir.pwd + '/features/support/ajax_resources'
 
