@@ -21,7 +21,7 @@ Index
 ===============
 Selenium first example
 
-Checkbox and Select box example
+Checkbox and Select box example (by text and by value)
 
 ScenarioOutlineExample
 
