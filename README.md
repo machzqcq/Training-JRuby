@@ -51,7 +51,7 @@ Calling SOAP API[TODO]
 
 Mixing Java Code with Ruby code[TODO]
 
-Convert pdf to text [TODO]
+Convert pdf to text
 
 Read and write Excel files [TODO]
 
