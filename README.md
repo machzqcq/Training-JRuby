@@ -7,6 +7,12 @@ however if you stumble across the code and want to know more, please email me: p
 This project can be used by technical coaches for large and small companies to teach and also have
 implementation code that proves Test Automation should be encouraged as much as possible
 
+There are multiple websites used, some of them are:
+
+1) www.google.com
+2) http://puppies.herokuapp.com
+3) More.....
+
 
 Capabilities offered
 
