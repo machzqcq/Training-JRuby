@@ -35,3 +35,9 @@ Then(/^I retrieve the h4 element$/) do
   h4_details_element = details_element_by_class.find_elements(:tag_name => 'h4')[1]
   expect(h4_details_element.text).to eql("Female")
 end
+
+Then(/^I retrieve the div and then subsequently the image element chained$/) do
+  # Retrieve another div and then img from that div
+  img_element_by_class = @div_element.find_element(:class => 'image').find_element(:tag_name => 'img')
+  expect(img_element_by_class.attribute('alt')).to eql("Brook")
+end

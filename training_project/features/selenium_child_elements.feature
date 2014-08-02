@@ -7,6 +7,10 @@ Feature: Retrieving child elements using selenium api
     When I open the puppies website
     And I get the row element
     Then I retrieve the div and then subsequently the image element
+  Scenario: Retrieve div and then image element chained
+    When I open the puppies website
+    And I get the row element
+    Then I retrieve the div and then subsequently the image element chained
   Scenario: Retrieve name element
     When I open the puppies website
     And I get the row element
