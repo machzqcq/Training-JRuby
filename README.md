@@ -77,7 +77,7 @@ Extend Selenium AbstractEventListener and customize
 Instructions to use
 =====================
 
-1) Checkout the project
+1) Checkout the project, cd into training_project
 2) Run bundle install
 3) Go through .feature files
 
