@@ -27,6 +27,10 @@ ScenarioOutlineExample
 
 Selenium find element strategies (Retrieve child elements)
 
+Selenium find element using multiple locators
+
+Selenium find element by chaining find_element
+
 yml examples
 
 json examples
