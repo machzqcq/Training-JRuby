@@ -25,6 +25,8 @@ Checkbox and Select box example (by text and by value)
 
 ScenarioOutlineExample
 
+Selenium find element strategies (Retrieve child elements)
+
 yml examples
 
 json examples
