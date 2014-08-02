@@ -4,6 +4,7 @@ And(/^I get the row element$/) do
 end
 
 Then(/^I retrieve image child element$/) do
+  # It is a good idea to whiteboard and explain HTML DOM here
   # Retrieve img element from div
   img_element_by_tag = @div_element.find_element(:tag_name => 'img')
   expect(img_element_by_tag.attribute('alt')).to eql("Brook")
