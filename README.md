@@ -65,7 +65,7 @@ Calling REST API [TODO]
 
 Calling SOAP API[TODO]
 
-Mixing Java Code with Ruby code[TODO]
+Mixing Java Code with Ruby code
 
 Convert pdf to text
 
