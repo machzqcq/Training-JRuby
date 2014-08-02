@@ -41,3 +41,13 @@ Then(/^I retrieve the div and then subsequently the image element chained$/) do
   img_element_by_class = @div_element.find_element(:class => 'image').find_element(:tag_name => 'img')
   expect(img_element_by_class.attribute('alt')).to eql("Brook")
 end
+
+Then(/^I click on view details by passing tagname "([^"]*)" and class "([^"]*)"$/) do |tag_name, class_name|
+  # Observe how we have used both tag name and class to identify the element
+  # Also observe that there are multiple elements having the locator information
+  # The driver would retrieve only the first one if we dont find_elements
+  view_detail_button = @div_element.find_element(:tag_name => tag_name,:class_name => class_name)
+  view_detail_button.click
+  adopt_me_button = @browser.find_element(:class => 'rounded_button')
+  expect(adopt_me_button.attribute('value')).to eql("Adopt Me!")
+end

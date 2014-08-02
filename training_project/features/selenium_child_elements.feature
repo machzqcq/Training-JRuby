@@ -23,3 +23,7 @@ Feature: Retrieving child elements using selenium api
     When I open the puppies website
     And I get the row element
     Then I retrieve the h4 element
+  Scenario: Click on view details using multiple locator strategies
+    When I open the puppies website
+    And I get the row element
+    Then I click on view details by passing tagname "input" and class "rounded_button"
