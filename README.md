@@ -73,6 +73,10 @@ Read and write Excel files [TODO]
 
 Extend Selenium AbstractEventListener and customize
 
+Known Issues
+=====================
+Hooks.rb code launches browser even for non-browser scenarios, however it closes it down too
+
 
 Instructions to use
 =====================
