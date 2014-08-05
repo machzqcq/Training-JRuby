@@ -57,7 +57,7 @@ Nokogiri Examples
 
 Run scenarios headless using phantomjs[TODO]
 
-Database connectivity [TODO]
+Database connectivity [Active Record and traditional sql]
 
 Thick client connectivity[TODO]
 
