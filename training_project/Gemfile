@@ -7,8 +7,14 @@ gem 'rake'
 gem 'nokogiri'
 gem 'activerecord'
 gem 'jdbc-mysql'
-gem 'activerecord-jdbcmysql-adapter'
 gem 'pdf-reader'
 gem 'browsermob-proxy'
+
+#jdbc stuff
+gem 'jdbc-sqlite3'
+gem 'activerecord-jdbcsqlite3-adapter'
+gem 'jdbc-mysql'
+gem 'activerecord-jdbcmysql-adapter', :platform => :jruby
+
 
 

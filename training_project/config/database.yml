@@ -1,0 +1,21 @@
+development:
+  adapter: sqlite3
+  database: db/development.sqlite3
+  pool: 5
+  timeout: 5000
+
+test:
+  adapter: sqlite3
+  database: db/test.sqlite3
+  pool: 5
+  timeout: 5000
+
+production:
+  adapter: mysql
+  encoding: utf8
+  database: your_db
+  username: root
+  password: your_pass
+  socket: /tmp/mysql.sock
+  host: your_db_ip     #defaults to 127.0.0.1
+  port: 3306
