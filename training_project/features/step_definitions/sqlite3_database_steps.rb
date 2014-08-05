@@ -70,8 +70,8 @@ When(/^I connect to development sqlite3 database$/) do
 
   ActiveRecord::Base.establish_connection(
       :adapter => "jdbcsqlite3",
-      :database  => "./features/support/database/development.sqlite3"
-      #:dbfile  => "./features/support/datafiles/development.sqlite3"
+      :database  => "./features/support/database/development_experimenting.sqlite3"
+      #:dbfile  => "./features/support/datafiles/development_experimenting.sqlite3"
   )
   @sqlite3_connection = ActiveRecord::Base.connection
 end
