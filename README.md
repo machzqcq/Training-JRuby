@@ -7,11 +7,7 @@ however if you stumble across the code and want to know more, please email me: p
 This project can be used by technical coaches for large and small companies to teach and also have
 implementation code that proves Test Automation should be encouraged as much as possible
 
-There are multiple websites used, some of them are:
-
-1) www.google.com
-2) http://puppies.herokuapp.com
-3) More.....
+There are multiple websites and files/resources used in this project based on scenario
 
 
 Capabilities offered
@@ -22,6 +18,13 @@ Capabilities offered
 4) Database connectivity
 5) Web Services connectivity
 6) Reduce manual activity as much as possible and let the machines do the redundant work
+
+Pre-Requisites
+===============
+1) Install firefox ( >25) and chrome (>30) and IE (>8)
+2) Download chromedriver.exe and IEDriverServer.exe and place in PATH
+3) System should have Java JDK 1.7 or higher and JAVA_HOME defined
+4) Install JRuby (http://jruby.org/) based on your platform type
 
 Index
 ===============
