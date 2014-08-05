@@ -13,10 +13,15 @@ There are multiple websites and files/resources used in this project based on sc
 Capabilities offered
 
 1) BDD/ATDD: Test Automate Everything
+
 2) Thin client i.e. Browser (chrome, firefox, internet explorer, opera, safari)
+
 3) XML/YML/HTML/JSON/CSV/EXCEL/CUSTOM FORMATS
+
 4) Database connectivity
+
 5) Web Services connectivity
+
 6) Reduce manual activity as much as possible and let the machines do the redundant work
 
 Pre-Requisites
