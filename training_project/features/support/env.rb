@@ -8,7 +8,7 @@ require_relative 'wrapper'
 require 'rspec/expectations'
 require 'browsermob/proxy'
 require 'java'
-require './/features//support//java_libraries//gson-2.2.4.jar'
+require './features/support/java_libraries/gson-2.2.4.jar'
 
 
 
