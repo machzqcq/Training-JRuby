@@ -65,9 +65,9 @@ Nokogiri Examples
 
 Run scenarios headless using phantomjs[TODO]
 
-Database connectivity [Active Record and traditional sql]
+Database connectivity using Active Record and/or traditional sql
 
-Thick client connectivity[TODO]
+Thick client connectivity (http://rubygems.org/gems/te3270-jruby)
 
 Calling REST API [TODO]
 
