@@ -21,3 +21,11 @@ Then(/^I select "([^"]*)" in select box by value$/) do |arg|
   pay_type_select_list = Selenium::WebDriver::Support::Select.new(order_pay_type)
   pay_type_select_list.select_by(:value, arg)
 end
+
+Then(/^I click popular cards checkbox$/) do
+  @browser.find_element(:id => 'cb-popular').click
+end
+
+Then(/^I click excellent credit radio button$/) do
+  @browser.find_element(:id => 'rb-excellent').click
+end
