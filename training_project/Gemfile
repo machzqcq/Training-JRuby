@@ -6,7 +6,6 @@ gem 'selenium-webdriver'
 gem 'rake'
 gem 'nokogiri'
 gem 'activerecord'
-gem 'jdbc-mysql'
 gem 'pdf-reader'
 gem 'browsermob-proxy'
 
