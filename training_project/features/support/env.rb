@@ -18,6 +18,9 @@ require 'activerecord-jdbcsqlite3-adapter' if defined? JRUBY_VERSION
 # for sqlite3
 require 'jdbc/sqlite3'
 
+#for rubyXL
+require 'rubyXL'
+
 
 
 

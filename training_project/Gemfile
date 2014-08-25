@@ -17,5 +17,7 @@ gem 'jdbc-mysql'
 gem 'activerecord-jdbcmysql-adapter', :platform => :jruby
 gem 'capybara'
 
+gem 'rubyXL'
+
 
 
