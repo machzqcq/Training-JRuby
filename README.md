@@ -92,6 +92,7 @@ Instructions to use
 1) Checkout the project, cd into training_project
 2) Run bundle install
 3) Go through .feature files
+4) Check step defnitions
 
 
 ## Contributing
