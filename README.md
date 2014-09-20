@@ -63,7 +63,7 @@ Java Script examples (Ajax handling)
 
 Nokogiri Examples
 
-Run scenarios headless using phantomjs[TODO]
+Run scenarios headless using phantomjs
 
 Database connectivity using Active Record and/or traditional sql
 
