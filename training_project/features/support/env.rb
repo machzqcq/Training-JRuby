@@ -1,4 +1,5 @@
 require 'rspec'
+require 'uri'
 require 'yaml'
 require 'json'
 require 'nokogiri'
