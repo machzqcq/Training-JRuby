@@ -18,3 +18,20 @@ end
 Then(/^I click excellent credit radio button$/) do
   @browser.find_element(:id => 'rb-excellent').click
 end
+
+And(/^I select "([^"]*)" text from select box$/) do |arg|
+  dropdown = @browser.find_element(:id => 'dropdown')
+  select_list = Selenium::WebDriver::Support::Select.new(dropdown)
+  select_list.select_by(:text, arg)
+end
+
+
+When(/^I open the internet website with dropdown$/) do
+  @browser.navigate.to "http://the-internet.herokuapp.com/dropdown"
+end
+
+And(/^I select "([^"]*)" value from select box$/) do |arg|
+  dropdown = @browser.find_element(:id => 'dropdown')
+  select_list = Selenium::WebDriver::Support::Select.new(dropdown)
+  select_list.select_by(:value, arg.to_s)
+end

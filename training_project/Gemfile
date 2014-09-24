@@ -20,5 +20,8 @@ gem 'capybara'
 # jgem install rubyXL
 gem 'rubyXL'
 
+# sinatra gem for simple DSL for creating web apps
+gem 'sinatra'
+
 
 

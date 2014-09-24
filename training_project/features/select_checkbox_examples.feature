@@ -12,6 +12,10 @@ Feature: Select box and check box examples
     Then I click excellent credit radio button
 
   Scenario: Select box example by text
+    When I open the internet website with dropdown
+    And I select "Option 1" text from select box
 
 
   Scenario: Select box example by value
+   When I open the internet website with dropdown
+    And I select "1" value from select box
