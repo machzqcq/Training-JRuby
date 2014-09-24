@@ -83,6 +83,9 @@ Extend Selenium AbstractEventListener and customize
 
 Tabbed browsing in browser
 
+Downloading a file using net http
+
+
 Known Issues
 =====================
 Hooks.rb code launches browser even for non-browser scenarios, however it closes it down too
