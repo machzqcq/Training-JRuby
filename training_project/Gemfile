@@ -23,5 +23,8 @@ gem 'rubyXL'
 # sinatra gem for simple DSL for creating web apps
 gem 'sinatra'
 
+# gem to connect to saucelabs and also dynamically change browser parameters
+gem 'saucelabs'
+
 
 
