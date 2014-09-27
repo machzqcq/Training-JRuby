@@ -31,6 +31,13 @@ Pre-Requisites
 3) System should have Java JDK 1.7 or higher and JAVA_HOME defined
 4) Install JRuby (http://jruby.org/) based on your platform type
 
+How to use
+=============
+git clone
+cd training_project
+bundle install
+Go through the code
+
 Index
 ===============
 Selenium first example
