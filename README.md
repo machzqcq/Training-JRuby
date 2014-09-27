@@ -33,10 +33,13 @@ Pre-Requisites
 
 How to use
 =============
-git clone
-cd training_project
-bundle install
-Go through the code
+1) git clone  
+
+2) cd training_project  
+
+3) bundle install  
+
+4) Go through the code
 
 Index
 ===============
