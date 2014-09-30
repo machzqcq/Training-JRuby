@@ -112,6 +112,18 @@ Instructions to use
 
 4) Check step defnitions
 
+Sample Websites to experiment
+==============================
+I found this - http://sqa.stackexchange.com/questions/7312/what-is-a-good-website-to-hack-around-using-selenium  
+http://adam.goucher.ca/parkcalc/  
+http://bdonline.sqe.com/  
+http://newtours.demoaut.com/  
+https://www.openclinica.com/  
+http://www.actitime.com/  
+http://store.demoqa.com/  
+http://demoqa.com/  
+http://the-internet.herokuapp.com/  
+
 
 ## Contributing
 
