@@ -6,7 +6,7 @@ When(/^I import java lang system and print version$/) do
 end
 
 And(/^I launch browser and print the title$/) do
-  @browser.navigate.to "http://www.google.com"
+  @browser.navigate.to "http://www.seleniumframework.com"
   puts "Browser title: #{@browser.title}"
 end
 
