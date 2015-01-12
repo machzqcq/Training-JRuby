@@ -114,7 +114,10 @@ Instructions to use
 
 Sample Websites to experiment
 ==============================
-I found this - http://sqa.stackexchange.com/questions/7312/what-is-a-good-website-to-hack-around-using-selenium  
+http://www.seleniumframework.com/Practiceform/  
+http://practiceselenium.com  
+http://automationpractice.com  
+http://sqa.stackexchange.com/questions/7312/what-is-a-good-website-to-hack-around-using-selenium  
 http://adam.goucher.ca/parkcalc/  
 http://bdonline.sqe.com/  
 http://newtours.demoaut.com/  
